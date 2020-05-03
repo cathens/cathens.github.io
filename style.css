@@ -10,7 +10,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #C8102E;
+  background-color: #71D0C5;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -36,9 +36,9 @@ body {
 .jumbotron {
   height: 100vh; height to 100% of view height
   background: #C8102E;
-    
+
   /* The image used */
-  background-image: url("campanile.jpg");
+  background-image: url("displays.jpg");
 
   /* Half height */
   /*height: 50%;
@@ -46,8 +46,8 @@ body {
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;  
-    
+  background-size: cover;
+
   margin-bottom: 0; /*no bottom margin*/
 
   display: flex;
