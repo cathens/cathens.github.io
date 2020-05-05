@@ -286,3 +286,14 @@ h4 {
 .white-text {
   color: white;
 }
+
+.case-image img {
+  width: 1000;
+  length: 1000;
+}
+
+.case-image  {
+  width: auto;
+  length: auto;
+  display: flex
+}
